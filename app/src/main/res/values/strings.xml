@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">hw5</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title">BREAKING NEWS!</string>
+    <string name="message">All Clear the Invasion is Over!</string>
+    <string name="sigh">WHEW</string>
+</resources>
